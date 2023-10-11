@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac48ea15dd8df24c938824ee5e3199f, type: 3}
+  m_Name: Cabbage
+  m_EditorClassIdentifier: 
+  productPrefab: {fileID: 1124446831371143886, guid: 6434a97134a32a241af16930c90bba72, type: 3}
+  productType: 1
+  productPrice: 1
